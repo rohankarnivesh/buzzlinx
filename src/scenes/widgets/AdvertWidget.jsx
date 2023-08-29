@@ -20,15 +20,15 @@ const AdvertWidget = () => {
         width="100%"
         height="auto"
         alt="advert"
-        src="http://localhost:3001/assets/info4.jpeg"
+        src="http://localhost:3001/assets/info4.jpg"
         style={{ borderRadius: "0.75rem", margin: "0.75rem 0" }}
       />
       <FlexBetween>
-        <Typography color={main}>KitKat</Typography>
-        <Typography color={medium}>nestlekitkat.com</Typography>
+        <Typography color={main}>Jujutsu Kaisen Season 2</Typography>
+        <Typography color={medium}>netflix.com</Typography>
       </FlexBetween>
       <Typography color={medium} m="0.5rem 0">
-      "Embrace temptation with KitKat's alluring layers of crisp wafer and rich chocolate. Indulge in pure, unadulterated delight today."
+      "Highly recommend you to watch this. Everything is nearly perfect; the plot, characters, action scenes, EVERYTHING. It's not an anime that will make you regret it. WHAT ARE YOU WAITING FOR!!"
       </Typography>
     </WidgetWrapper>
   );
